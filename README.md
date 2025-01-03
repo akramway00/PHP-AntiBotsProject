@@ -102,10 +102,6 @@ return [
 4. On successful verification, the visitor is granted access to the site.
 5. If verification fails or criteria are not met, the visitor is blocked or redirected.
 
-## Live Demo
-
-Try the live version [here](https://your-website.com).
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
