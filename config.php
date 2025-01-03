@@ -1,6 +1,6 @@
 <?php
 
-// config.php: Configuration des options d'antibot
+
 return [
     'mobile_only' => false, // Activer le verrouillage mobile
     'allow_countries' => ['CA', 'FR'], // Liste des pays autorisés (codes ISO)
