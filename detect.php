@@ -1,5 +1,5 @@
 <?php
-// detect.php: Détection et validation
+
 include 'config.php';
 $config = include 'config.php';
 include 'useragents.php';
@@ -92,7 +92,7 @@ $ip = getVisitorIp();
 $agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
 $hostname = gethostbyaddr($ip);
 
-// Vérification rapide des IP déjà connues
+
 if (file_exists('bad_ips.txt') && in_array($ip, file('bad_ips.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES))) {
     header('Location: /error/ip.html');
     exit;
