@@ -1,11 +1,5 @@
 # PHP-AntibotsProject
-
-![Captcha Verification](link-to-first-image)
-![Verification Success](link-to-second-image)
-
-## Overview
-
-This project, **PHP-AntibotsProject**, is a robust antibot solution designed to prevent automated bots and unauthorized users from accessing your website. It implements advanced features like CAPTCHA verification, IP filtering, and user-agent analysis to enhance security.
+The **PHP-AntibotsProject** is a powerful antibot solution designed to safeguard websites from automated bots and unauthorized users. It integrates advanced security measures such as CAPTCHA verification, IP filtering, and user-agent validation to ensure only legitimate traffic is granted access.
 
 ## Features
 
@@ -17,6 +11,15 @@ This project, **PHP-AntibotsProject**, is a robust antibot solution designed to 
 - **Proxy and VPN Detection**: Restricts access from proxies and VPNs to ensure genuine users.
 - **Customizable Configuration**: Easily modify settings to adapt the project to your needs.
 - **Default Landing Page Redirection**: Redirects blocked users to a predefined URL.
+
+## Screenshots
+**1. Human Verification CAPTCHA Interface**
+
+![Captcha Verification](captchaScreenshot.PNG)
+
+**2. Verification Success Screen**
+
+![Verification Success](successScreenshot.PNG)
 
 ## How It Works
 
@@ -107,7 +110,11 @@ Try the live version [here](https://your-website.com).
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
+## Author
+
+Developed by Akramway00.
+
+
 
 
 
