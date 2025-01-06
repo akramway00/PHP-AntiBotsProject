@@ -15,11 +15,11 @@ The **PHP-AntibotsProject** is a powerful antibot solution designed to safeguard
 ## Screenshots
 **1. Human Verification CAPTCHA Interface**
 
-![Captcha Verification](captchaScreenshot.PNG)
+![Captcha Verification](capture/captchaScreenshot.PNG)
 
 **2. Verification Success Screen**
 
-![Verification Success](successScreenshot.PNG)
+![Verification Success](capture/successScreenshot.PNG)
 
 ## How It Works
 
